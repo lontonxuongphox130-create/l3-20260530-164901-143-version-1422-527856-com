@@ -1,0 +1,10 @@
+{
+  "movie_data_count": 2000,
+  "detail_file_count": 2000,
+  "html_file_count": 2015,
+  "category_unique_movie_ids": 2000,
+  "analytics_missing": [],
+  "all_detail_pages_exist": true,
+  "all_movies_in_category_pages": true,
+  "logo": "高清剧集大全"
+}
